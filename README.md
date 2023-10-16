@@ -14,4 +14,8 @@ Dive into the complete process of building a data pipeline. Improving skills lev
 Design, develop and use data pipelines.
 
 # Datasets
-
+This repository includes a dataset of scores.csv, schools_modified.csv, amazon_sales_cleaned_sql.csv, tax_rate_cleaned.csv
+- [Download scores.csv](scores.csv)
+- [Download schools_modified.csv](schools_modified.csv)
+- [Download amazon_sales_cleaned_sql.csv](amazon_sales_cleaned_sql.csv)
+- [Download tax_rate_cleaned.csv](tax_rate_cleaned.csv)
